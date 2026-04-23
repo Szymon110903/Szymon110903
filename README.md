@@ -16,7 +16,7 @@
 ### 🛠️ Technologie i Umiejętności
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,py,nodejs,django,postgres,mssql,docker,java,github,pbi&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=react,ts,js,py,nodejs,django,postgres,docker,java,github,pbi&theme=dark" />
   </a>
 </p>
 
